@@ -1,0 +1,207 @@
+{
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 0, "Cgid_102338" : "1", "Cid_3355" : "1", "Csito_3530577" : "Affori FN", "Czona_3744680" : "9", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0081", "Clatitudine_839754201" : "9.167042", "Clongitudin_36623077" : "45.522503", "Cthe_geom_1096086090" : "0101000020E6100000EB1D6E8786552240EC87D860E1C24640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 1, "Cgid_102338" : "2", "Cid_3355" : "2", "Csito_3530577" : "Arco Della Pace", "Czona_3744680" : "1", "Cattiva_1407250797" : "0", "Ccodice_1355087341" : "A0044", "Clatitudine_839754201" : "9.173604", "Clongitudin_36623077" : "45.475693", "Cthe_geom_1096086090" : "0101000020E6100000D9E89C9FE2582240D3F71A82E3BC4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 2, "Cgid_102338" : "3", "Cid_3355" : "3", "Csito_3530577" : "Bastioni di Porta Nuova 23", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "E0725", "Clatitudine_839754201" : "9.192298", "Clongitudin_36623077" : "45.478569", "Cthe_geom_1096086090" : "0101000020E6100000232C2AE27462224091F0BDBF41BD4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 3, "Cgid_102338" : "4", "Cid_3355" : "4", "Csito_3530577" : "Corso di Porta Romana 116", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "E0473", "Clatitudine_839754201" : "9.198673", "Clongitudin_36623077" : "45.454303", "Cthe_geom_1096086090" : "0101000020E6100000ACBA12008872CA40D4BA120013AD740F"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 4, "Cgid_102338" : "5", "Cid_3355" : "5", "Csito_3530577" : "Corso Vittorio Emanuele", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0108", "Clatitudine_839754201" : "9.192449", "Clongitudin_36623077" : "45.464279", "Cthe_geom_1096086090" : "0101000020E6100000BA4BE2AC886222401B9C887E6DBB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 5, "Cgid_102338" : "6", "Cid_3355" : "6", "Csito_3530577" : "Corso XXII Marzo 16", "Czona_3744680" : "4", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "E0464", "Clatitudine_839754201" : "9.210202", "Clongitudin_36623077" : "45.46209", "Cthe_geom_1096086090" : "0101000020E61000008B1BB7989F6B224082E7DEC325BB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 6, "Cgid_102338" : "7", "Cid_3355" : "7", "Csito_3530577" : "Galleria Ciro Fontana 1", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "E0016", "Clatitudine_839754201" : "0", "Clongitudin_36623077" : "0", "Cthe_geom_1096086090" : "0101000020E6100000ACBA12008872CA40D4BA120013AD740F"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 7, "Cgid_102338" : "8", "Cid_3355" : "8", "Csito_3530577" : "Galleria Vittorio Emanuele", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0113", "Clatitudine_839754201" : "9.18804", "Clongitudin_36623077" : "45.465691", "Cthe_geom_1096086090" : "0101000020E610000000AE64C74660224051853FC39BBB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 8, "Cgid_102338" : "9", "Cid_3355" : "9", "Csito_3530577" : "Giardini Aldo Protti", "Czona_3744680" : "2", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0050", "Clatitudine_839754201" : "9.198845", "Clongitudin_36623077" : "45.490986", "Cthe_geom_1096086090" : "0101000020E61000003DF20703CF6522409D6516A1D8BE4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 9, "Cgid_102338" : "10", "Cid_3355" : "10", "Csito_3530577" : "Giardini Cislaghi", "Czona_3744680" : "2", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0049", "Clatitudine_839754201" : "9.231065", "Clongitudin_36623077" : "45.512939", "Cthe_geom_1096086090" : "0101000020E61000001F80D4264E762240E6EB32FCA7C14640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 10, "Cgid_102338" : "11", "Cid_3355" : "11", "Csito_3530577" : "Giardini Erodoto", "Czona_3744680" : "2", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0003", "Clatitudine_839754201" : "9.223481", "Clongitudin_36623077" : "45.508919", "Cthe_geom_1096086090" : "0101000020E6100000048E041A6C72224011A8FE4124C14640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 11, "Cgid_102338" : "12", "Cid_3355" : "12", "Csito_3530577" : "Giardini Gregor Mendel", "Czona_3744680" : "2", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0051", "Clatitudine_839754201" : "9.197502", "Clongitudin_36623077" : "45.490162", "Cthe_geom_1096086090" : "0101000020E610000008CA6DFB1E652240F8DEDFA0BDBE4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 12, "Cgid_102338" : "13", "Cid_3355" : "13", "Csito_3530577" : "Giardini Marinai D'italia", "Czona_3744680" : "4", "Cattiva_1407250797" : "0", "Ccodice_1355087341" : "A0055", "Clatitudine_839754201" : "9.21638", "Clongitudin_36623077" : "45.460938", "Cthe_geom_1096086090" : "0101000020E61000005704FF5BC96E2240E8BD310400BB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 13, "Cgid_102338" : "14", "Cid_3355" : "14", "Csito_3530577" : "Giardini piazza Carrara", "Czona_3744680" : "5", "Cattiva_1407250797" : "0", "Ccodice_1355087341" : "A0066", "Clatitudine_839754201" : "9.185784", "Clongitudin_36623077" : "45.441799", "Cthe_geom_1096086090" : "0101000020E6100000793D98141F5F2240E833A0DE8CB84640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 14, "Cgid_102338" : "15", "Cid_3355" : "15", "Csito_3530577" : "Giardini Sarca/Emanueli", "Czona_3744680" : "9", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0079", "Clatitudine_839754201" : "9.209553", "Clongitudin_36623077" : "45.516003", "Cthe_geom_1096086090" : "0101000020E6100000B08EE3874A6B2240A6D1E4620CC24640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 15, "Cgid_102338" : "16", "Cid_3355" : "16", "Csito_3530577" : "Giardini Tremelloni", "Czona_3744680" : "2", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0048", "Clatitudine_839754201" : "9.233468", "Clongitudin_36623077" : "45.514179", "Cthe_geom_1096086090" : "0101000020E61000003753211E897722401EA5129ED0C14640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 16, "Cgid_102338" : "17", "Cid_3355" : "17", "Csito_3530577" : "Giardini Via Aicardo", "Czona_3744680" : "5", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0063", "Clatitudine_839754201" : "9.185229", "Clongitudin_36623077" : "45.440048", "Cthe_geom_1096086090" : "0101000020E6100000A48AE255D65E2240C9552C7E53B84640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 17, "Cgid_102338" : "18", "Cid_3355" : "18", "Csito_3530577" : "Giardini Via Anassagora", "Czona_3744680" : "2", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0047", "Clatitudine_839754201" : "9.232094", "Clongitudin_36623077" : "45.515667", "Cthe_geom_1096086090" : "0101000020E610000016325706D57622402F50526001C24640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 18, "Cgid_102338" : "19", "Cid_3355" : "19", "Csito_3530577" : "Giardini Via Gregorovius", "Czona_3744680" : "9", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0082", "Clatitudine_839754201" : "9.19819", "Clongitudin_36623077" : "45.514198", "Cthe_geom_1096086090" : "0101000020E6100000DAC9E0287965224095D5743DD1C14640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 19, "Cgid_102338" : "20", "Cid_3355" : "20", "Csito_3530577" : "Giardini Viale Cermenate", "Czona_3744680" : "5", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0065", "Clatitudine_839754201" : "9.180177", "Clongitudin_36623077" : "45.437923", "Cthe_geom_1096086090" : "0101000020E610000098FBE428405C2240469561DC0DB84640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 20, "Cgid_102338" : "21", "Cid_3355" : "21", "Csito_3530577" : "Largo Aldo De Benedetti 1", "Czona_3744680" : "9", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "E0027", "Clatitudine_839754201" : "9.194352", "Clongitudin_36623077" : "45.485855", "Cthe_geom_1096086090" : "0101000020E61000000BD3F71A826322408ECC237F30BE4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 21, "Cgid_102338" : "22", "Cid_3355" : "22", "Csito_3530577" : "Largo Ascari", "Czona_3744680" : "6", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0024", "Clatitudine_839754201" : "9.167723", "Clongitudin_36623077" : "45.443401", "Cthe_geom_1096086090" : "0101000020E6100000F392FFC9DF552240C1012D5DC1B84640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 22, "Cgid_102338" : "23", "Cid_3355" : "23", "Csito_3530577" : "Largo Cairoli", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0119", "Clatitudine_839754201" : "9.183806", "Clongitudin_36623077" : "45.467472", "Cthe_geom_1096086090" : "0101000020E6100000FE9DEDD11B5E2240DAE55B1FD6BB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 23, "Cgid_102338" : "24", "Cid_3355" : "24", "Csito_3530577" : "Largo Treves 1", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "E0011", "Clatitudine_839754201" : "9.186616", "Clongitudin_36623077" : "45.475246", "Cthe_geom_1096086090" : "0101000020E610000018D2E1218C5F224004C765DCD4BC4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 24, "Cgid_102338" : "25", "Cid_3355" : "25", "Csito_3530577" : "Ospedale Maggiore 3", "Czona_3744680" : "9", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "E0728", "Clatitudine_839754201" : "9.189571", "Clongitudin_36623077" : "45.509235", "Cthe_geom_1096086090" : "0101000020E6100000408A3A730F612240417DCB9C2EC14640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 25, "Cgid_102338" : "26", "Cid_3355" : "26", "Csito_3530577" : "Parco Alessandrini", "Czona_3744680" : "4", "Cattiva_1407250797" : "0", "Ccodice_1355087341" : "A0060", "Clatitudine_839754201" : "9.244889", "Clongitudin_36623077" : "45.44397", "Cthe_geom_1096086090" : "0101000020E6100000E04C4C17627D2240DB334B02D4B84640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 26, "Cgid_102338" : "27", "Cid_3355" : "27", "Csito_3530577" : "Parco Baravalle", "Czona_3744680" : "5", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0062", "Clatitudine_839754201" : "9.184204", "Clongitudin_36623077" : "45.446732", "Cthe_geom_1096086090" : "0101000020E6100000B39597FC4F5E2240D009A1832EB94640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 27, "Cgid_102338" : "28", "Cid_3355" : "28", "Csito_3530577" : "Parco Chiesa Rossa", "Czona_3744680" : "5", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0061", "Clatitudine_839754201" : "9.173877", "Clongitudin_36623077" : "45.430771", "Cthe_geom_1096086090" : "0101000020E61000009D0DF9670659224059880E8123B74640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 28, "Cgid_102338" : "29", "Cid_3355" : "29", "Csito_3530577" : "Parco delle Cave", "Czona_3744680" : "7", "Cattiva_1407250797" : "0", "Ccodice_1355087341" : "A0073", "Clatitudine_839754201" : "9.102333", "Clongitudin_36623077" : "45.469135", "Cthe_geom_1096086090" : "0101000020E6100000679AB0FD6434224059349D9D0CBC4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 29, "Cgid_102338" : "30", "Cid_3355" : "30", "Csito_3530577" : "Parco Ex Trotter", "Czona_3744680" : "2", "Cattiva_1407250797" : "0", "Ccodice_1355087341" : "A0052", "Clatitudine_839754201" : "9.224955", "Clongitudin_36623077" : "45.49424", "Cthe_geom_1096086090" : "0101000020E6100000B324404D2D73224001309E4143BF4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 30, "Cgid_102338" : "31", "Cid_3355" : "31", "Csito_3530577" : "Parco Solari", "Czona_3744680" : "6", "Cattiva_1407250797" : "0", "Ccodice_1355087341" : "A0068", "Clatitudine_839754201" : "9.162298", "Clongitudin_36623077" : "45.456951", "Cthe_geom_1096086090" : "0101000020E6100000946934B918532240EF6FD05E7DBA4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 31, "Cgid_102338" : "32", "Cid_3355" : "32", "Csito_3530577" : "Parco Via Croce/ Omodeo", "Czona_3744680" : "8", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0038", "Clatitudine_839754201" : "9.11827", "Clongitudin_36623077" : "45.493866", "Cthe_geom_1096086090" : "0101000020E61000002332ACE28D3C22409C4D470037BF4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 32, "Cgid_102338" : "33", "Cid_3355" : "33", "Csito_3530577" : "Parco Villa Scheibler", "Czona_3744680" : "8", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0132", "Clatitudine_839754201" : "9.134924", "Clongitudin_36623077" : "45.515877", "Cthe_geom_1096086090" : "0101000020E610000019E42EC2144522401AE1ED4108C24640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 33, "Cgid_102338" : "34", "Cid_3355" : "34", "Csito_3530577" : "Piazza  dei Mercanti", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0117", "Clatitudine_839754201" : "9.188345", "Clongitudin_36623077" : "45.464134", "Cthe_geom_1096086090" : "0101000020E6100000F1BA7EC16E602240187B2FBE68BB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 34, "Cgid_102338" : "35", "Cid_3355" : "35", "Csito_3530577" : "Piazza Abbiategrasso", "Czona_3744680" : "5", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0023", "Clatitudine_839754201" : "9.18034", "Clongitudin_36623077" : "45.430012", "Cthe_geom_1096086090" : "0101000020E61000003F524486555C22409B711AA20AB74640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 35, "Cgid_102338" : "36", "Cid_3355" : "36", "Csito_3530577" : "piazza Agrippa 12", "Czona_3744680" : "5", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0064", "Clatitudine_839754201" : "9.18363", "Clongitudin_36623077" : "45.432781", "Cthe_geom_1096086090" : "0101000020E6100000042159C0045E224043AA285E65B74640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 36, "Cgid_102338" : "37", "Cid_3355" : "37", "Csito_3530577" : "Piazza Amendola", "Czona_3744680" : "8", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0036", "Clatitudine_839754201" : "9.151873", "Clongitudin_36623077" : "45.474045", "Cthe_geom_1096086090" : "0101000020E6100000734A404CC24D224089EAAD81ADBC4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 37, "Cgid_102338" : "38", "Cid_3355" : "38", "Csito_3530577" : "Piazza Argentina", "Czona_3744680" : "3", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0013", "Clatitudine_839754201" : "9.215602", "Clongitudin_36623077" : "45.484241", "Cthe_geom_1096086090" : "0101000020E610000086E7A562636E2240F030ED9BFBBD4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 38, "Cgid_102338" : "39", "Cid_3355" : "39", "Csito_3530577" : "Piazza Axum", "Czona_3744680" : "7", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0128", "Clatitudine_839754201" : "9.124354", "Clongitudin_36623077" : "45.476288", "Cthe_geom_1096086090" : "0101000020E6100000EA40D653AB3F224016BD5301F7BC4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 39, "Cgid_102338" : "40", "Cid_3355" : "40", "Csito_3530577" : "Piazza Beccaria / Fontana", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0045", "Clatitudine_839754201" : "9.195783", "Clongitudin_36623077" : "45.464409", "Cthe_geom_1096086090" : "0101000020E6100000BD395CAB3D642240EA7B0DC171BB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 40, "Cgid_102338" : "41", "Cid_3355" : "41", "Csito_3530577" : "Piazza Bottini", "Czona_3744680" : "3", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0014", "Clatitudine_839754201" : "9.23642", "Clongitudin_36623077" : "45.484638", "Cthe_geom_1096086090" : "0101000020E61000009B3DD00A0C7922400D33349E08BE4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 41, "Cgid_102338" : "42", "Cid_3355" : "42", "Csito_3530577" : "Piazza Buonarroti", "Czona_3744680" : "7", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0027", "Clatitudine_839754201" : "9.155715", "Clongitudin_36623077" : "45.470539", "Cthe_geom_1096086090" : "0101000020E610000048FE60E0B94F22400C3F389F3ABC4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 42, "Cgid_102338" : "43", "Cid_3355" : "43", "Csito_3530577" : "Piazza Cadorna", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0043", "Clatitudine_839754201" : "9.177071", "Clongitudin_36623077" : "45.467606", "Cthe_geom_1096086090" : "0101000020E6100000D923D40CA95A2240EAB46E83DABB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 43, "Cgid_102338" : "44", "Cid_3355" : "44", "Csito_3530577" : "Piazza caduti e dispersi in russia 1", "Czona_3744680" : "3", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "E0103", "Clatitudine_839754201" : "9.254479", "Clongitudin_36623077" : "45.490952", "Cthe_geom_1096086090" : "0101000020E61000009E094D124B822240F1F3DF83D7BE4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 44, "Cgid_102338" : "45", "Cid_3355" : "45", "Csito_3530577" : "Piazza Caiazzo", "Czona_3744680" : "2", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0009", "Clatitudine_839754201" : "9.211121", "Clongitudin_36623077" : "45.485531", "Cthe_geom_1096086090" : "0101000020E610000065FF3C0D186C2240DB183BE125BE4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 45, "Cgid_102338" : "46", "Cid_3355" : "46", "Csito_3530577" : "Piazza Castello", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0118", "Clatitudine_839754201" : "9.181683", "Clongitudin_36623077" : "45.469173", "Cthe_geom_1096086090" : "0101000020E6100000747ADE8D055D2240469561DC0DBC4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 46, "Cgid_102338" : "47", "Cid_3355" : "47", "Csito_3530577" : "Piazza Cordusio", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0111", "Clatitudine_839754201" : "9.187125", "Clongitudin_36623077" : "45.465324", "Cthe_geom_1096086090" : "0101000020E61000002B8716D9CE5F22409F05A1BC8FBB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 47, "Cgid_102338" : "48", "Cid_3355" : "48", "Csito_3530577" : "Piazza De Angeli", "Czona_3744680" : "7", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0028", "Clatitudine_839754201" : "9.149934", "Clongitudin_36623077" : "45.466942", "Cthe_geom_1096086090" : "0101000020E6100000EF1D3526C44C22407E9065C1C4BB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 48, "Cgid_102338" : "49", "Cid_3355" : "49", "Csito_3530577" : "Piazza della Scala", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0114", "Clatitudine_839754201" : "9.195051", "Clongitudin_36623077" : "45.464661", "Cthe_geom_1096086090" : "0101000020E6100000AC1A84B9DD632240035DFB027ABB4640"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'54cf1372-f807-498c-b0b9-01f2d635630c@datiopen'"
+}, "row_id" : 49, "Cgid_102338" : "50", "Cid_3355" : "50", "Csito_3530577" : "Piazza Diaz", "Czona_3744680" : "1", "Cattiva_1407250797" : "1", "Ccodice_1355087341" : "A0104", "Clatitudine_839754201" : "9.189619", "Clongitudin_36623077" : "45.465897", "Cthe_geom_1096086090" : "0101000020E61000008466D7BD15612240FA264D83A2BB4640"
+}
+], "__count" : "0"
+}
+}

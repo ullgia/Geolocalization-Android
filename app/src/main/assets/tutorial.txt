@@ -1,0 +1,49 @@
+  <div class="node">
+ 	           
+
+    <h2 class="nodeTitle"><a href="/node/1">Benvenuto su Cittadinanza Digitale</a>
+		</h2>    
+	    
+    <div class="content">
+	
+	
+	<p>Benvenuto su Cittadinanza Digitale il progetto del <a href="http://www.comune.venezia.it" target="_blank" title="Sito del Comune di Venezia">Comune di Venezia</a> per consentire l&#39;accesso alla rete tramite gli <a href="http://it.wikipedia.org/wiki/Hotspot_(WLAN)" target="_blank" title="definizione hot-spot su Wikipedia">hot-spot</a> pubblici e ai servizi online.</p>
+<p>L&rsquo;Amministrazione comunale di Venezia ha deciso di realizzare una propria infrastruttura di rete basata su fibra ottica e wireless. La propriet&agrave; di una rete a larga banda consente all&rsquo;Amministrazione cittadina di fornire servizi innovativi ai cittadini residenti, a chi lavora, studia o visita Venezia.</p>
+<p>L&#39;accesso alla rete &egrave; riservato ai residenti nel Comune di Venezia e ai &quot;city users&quot; (lavoratori, studenti, professionisti che svolgono la propria attivit&agrave; nel comune di Venezia).</p>
+<p>Con le stesse credenziali puoi accedere anche alle reti wifi di altre citt&agrave; che aderiscono al progetto <a href="http://www.cittadinanzadigitale.it/freeitaliawifi">FreeItaliaWifi</a></p>
+<p>I turisti possono acquistare il servizio su <a href="http://www.veneziaunica.it">VeneziaUnica</a>.</p>
+<p>&nbsp;</p>
+<h3>
+	Registrazione</h3>
+<ul>
+<li>
+		<span>Se sei residente nel comune di Venezia puoi ottenere le credenziali di accesso alla rete. <span><span><a href="/node/3" title="Registrazione al servizio">Registrati gratuitamente</a></span></span></span></li>
+</ul>
+<ul>
+<li>
+		<span><span><span>Se non sei residente ma studi o lavori a Venezia <a href="/node/3">puoi registrarti gratuitamente</a></span></span></span></li>
+</ul>
+<ul>
+<li>
+		<span>Scopri le aree Wi-Fi sulla <a href="/mappa-wifi" target="_blank" title="Mappa Interattiva delle aree Wi-Fi">mappa interattiva</a> della citt&agrave;</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><b>Dopo aver utilizzato il Servizio WiFi, esprimi il tuo parere e i tuoi suggerimenti partecipando all&#39;<a href="http://www.comune.venezia.it/questionariowifi" target="_blank">indagine di soddisfazione dell&#39;utenza</a>, le tue osservazioni sono preziose per il migioramento del servizio!</b></p>
+<p>&nbsp;</p>
+<hr />
+<h3>
+	<a href="/guida" title="Scopri come registrarti per ottenere le credenziali">Guida per la registrazione</a></h3>
+<h3>
+	<a href="/faq">Consulta le FAQ</a></h3>
+<h3>
+	<a href="/faq#uffici_abilitati">Orari degli Uffici Relazioni con il Pubblico</a></h3>
+<p></p></div>
+    
+    
+        
+        <div class="linksteaser"><div class="links"><ul class="links inline"><li class="node_read_more first last"><a href="/node/1" title="Leggi il resto di Benvenuto su Cittadinanza Digitale.">Leggi tutto</a></li>
+</ul></div></div>        
+    
+    
+    
+  </div>

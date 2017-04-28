@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_tutorial_city"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.giacomo.venicewifi.ActivitySelectCity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="20dp"
+                    android:gravity="center"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/testoMultiLingua" />
+
+                <TextView
+                    android:text="Veneto"
+                    android:paddingTop="10dp"
+                    android:textSize="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/veneto" />
+
+                    <Button
+                        android:text="Venice"
+                        android:background="@android:color/transparent"
+                        android:textSize="15dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/Venice" />
+
+                    <TextView
+                        android:text="Emilia Romagna"
+                        android:paddingTop="10dp"
+                        android:textSize="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/emiliaRomagna" />
+
+                    <Button
+                            android:text="Reggio Emilia"
+                            android:textSize="15dp"
+                            android:layout_width="match_parent"
+                            android:background="@android:color/transparent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/Reggio" />
+
+                        <TextView
+                            android:text="Lazio"
+                            android:paddingTop="10dp"
+                            android:textSize="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/lazio" />
+
+                        <Button
+                            android:text="Rome"
+                            android:background="@android:color/transparent"
+                            android:textSize="15dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/Roma" />
+
+                        <TextView
+                            android:text="Lombardia"
+                            android:paddingTop="10dp"
+                            android:textSize="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/lombardia" />
+
+                        <Button
+                            android:text="Milan"
+                            android:background="@android:color/transparent"
+                            android:textSize="15dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/Milano" />
+
+                        <TextView
+                            android:text="Liguria"
+                            android:paddingTop="10dp"
+                            android:textSize="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/liguria"
+                            android:layout_weight="1" />
+
+                        <Button
+                            android:text="Genova"
+                            android:textSize="15dp"
+                            android:background="@android:color/transparent"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/Genova"
+                            android:layout_weight="1" />
+
+                        <TextView
+                            android:text="Umbria"
+                            android:paddingTop="10dp"
+                            android:textSize="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView14"
+                            android:layout_weight="1" />
+
+                        <Button
+                            android:text="Perugia"
+                            android:background="@android:color/transparent"
+                            android:textSize="15dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/Perugia"
+                            android:layout_weight="1" />
+
+                        <TextView
+                            android:text="Puglia"
+                            android:paddingTop="10dp"
+                            android:textSize="20dp"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView15"
+                            android:layout_weight="1" />
+
+                        <Button
+                            android:text="Lecce"
+                            android:textSize="15dp"
+                            android:background="@android:color/transparent"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/Lecce"
+                            android:layout_weight="1" />
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+</RelativeLayout>

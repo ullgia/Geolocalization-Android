@@ -1,0 +1,1349 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PIAZZA SANT'ORONZO",
+                "LUOGO": "PIAZZA SANT'ORONZO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17281,
+                    40.353201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "VILLA COMUNALE",
+                "LUOGO": "VIE G. GARIBALDI - SAN FRANCESCO D'ASSISI - G. MARCONI - VIALE 25 LUGLIO",
+                "NUM_HOTSPOT": "2",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.174155,
+                    40.355033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PIAZZA MADRE TERESA DI CALCUTTA",
+                "LUOGO": "VIA AVELLINO - VIA CAGLIARI - VIA PESCARA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.206449,
+                    40.360345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PARCO TAFURO",
+                "LUOGO": "VIA ANTONIO DELL'ABATE - VIA LUIGI CORVAGLIA",
+                "NUM_HOTSPOT": "2",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17371,
+                    40.339724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "STADIO COMUNALE",
+                "LUOGO": "VIA DEL MARE",
+                "NUM_HOTSPOT": "3",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20857286,
+                    40.36520941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "CHIESA SANTA CHIARA",
+                "LUOGO": "PIAZZA VITTORIO EMANUELE II",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.169323,
+                    40.352569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "VIA TRINCHESE",
+                "LUOGO": "VIA TRINCHESE",
+                "NUM_HOTSPOT": "3",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.174273,
+                    40.353463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "CHIESA SANTA CROCE",
+                "LUOGO": "VIA UMBERTO I",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17267,
+                    40.35501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PIAZZA MAZZINI",
+                "LUOGO": "VIA S. TRINCHESE - MONTE SAN MICHELE - G. OBERDAN - NAZARIO SAURO",
+                "NUM_HOTSPOT": "2",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.179813,
+                    40.352785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "OFFICINE CANTELMO",
+                "LUOGO": "VIALE MICHELE DE PIETRO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173011,
+                    40.358907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PIAZZETTA PORTA NAPOLI",
+                "LUOGO": "VIA F. CALASSO - CORTE VINCENZO LICCI - VIA ADUA - VIALE DELL'UNIVERSITA'",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168418,
+                    40.356532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "VIA DEI PERRONI",
+                "LUOGO": "VIA DEI PERRONI",
+                "NUM_HOTSPOT": "2",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.172114,
+                    40.349855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PALAZZO DI GIUSTIZIA",
+                "LUOGO": "VIALE MICHELE DE PIETRO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.173011,
+                    40.358907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "LUNGOMARE SAN CATALDO",
+                "LUOGO": "VIA C. COLOMBO - VIA G. DA VERAZZANO - VIA A.VESPUCCI",
+                "NUM_HOTSPOT": "6",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.305835,
+                    40.390308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PIAZZA DUOMO",
+                "LUOGO": "VIA G. LIBERTINI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.168814,
+                    40.352334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PARCO DI BELLOLUOGO",
+                "LUOGO": "PARCO DI BELLOLUOGO",
+                "NUM_HOTSPOT": "2",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.159491,
+                    40.362001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "ASSOCIAZIONE CULTURALE ACH",
+                "LUOGO": "VIA DI PETTORANO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.175985,
+                    40.360706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "MUST (MUSEO STORICO DI LECCE)",
+                "LUOGO": "VIA DEGLI AMMIRATI",
+                "NUM_HOTSPOT": "4",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.170951,
+                    40.351945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "AGENZIA EUROMEDITERRANEO (EX CONS. SANT'ANNA)",
+                "LUOGO": "VIA LIBERTINI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.165378,
+                    40.35142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "CASTELLO CARLO V",
+                "LUOGO": "VIALE 25 LUGLIO",
+                "NUM_HOTSPOT": "3",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.174434,
+                    40.353216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "STAZIONE CARABINIERI",
+                "LUOGO": "VIA LUPIAE",
+                "NUM_HOTSPOT": "7",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.185358,
+                    40.356157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PALAZZO CARAFA",
+                "LUOGO": "PALAZZO",
+                "NUM_HOTSPOT": "8",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17184,
+                    40.35337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "Via Dei Templari",
+                "LUOGO": "Via Dei Templari",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17270277,
+                    40.35430833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "Via Umberto I",
+                "LUOGO": "Via Umberto I",
+                "NUM_HOTSPOT": "2",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17271111,
+                    40.35531111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "Via Principe di Savoia",
+                "LUOGO": "Via Principe di Savoia",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17146944,
+                    40.35626111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "Via Principe di Savoia",
+                "LUOGO": "Via Principe di Savoia",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17023611,
+                    40.35627777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "Via G. Palmieri",
+                "LUOGO": "Via G. Palmieri",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16856111,
+                    40.35567777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "Via G. Palmieri",
+                "LUOGO": "Via G. Palmieri",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16860277,
+                    40.35311388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "Via V. Emanuele II",
+                "LUOGO": "Via V. Emanuele II",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16936666,
+                    40.35246388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "Via V. Emanuele II",
+                "LUOGO": "Via V. Emanuele II",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "",
+                "COLLAUDATO": "SI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17182777,
+                    40.35295277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "ASCANIO GRANDI",
+                "LUOGO": "VIA PATITARI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "01_ASCANIOGRANDI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18188,
+                    40.34729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "BANZI",
+                "LUOGO": "P.ZZA PALIO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "02_BANZI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19251,
+                    40.36113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "CALASSO",
+                "LUOGO": "VIA BELICE",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "03_CALASSO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17347,
+                    40.36916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "CALASSO",
+                "LUOGO": "VIA GARIBALDI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "04_CALASSO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17413,
+                    40.35631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "CESARE BATTISTI",
+                "LUOGO": "VIA COSTA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "05_CESAREBATTISTI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17544,
+                    40.35424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "COLUMELLA",
+                "LUOGO": "VIA A. MAZZOTTA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "06_COLUMELLA",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.14495,
+                    40.33236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "COLUMELLA",
+                "LUOGO": "VIA VECCHIA COPERTINO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "07_COLUMELLA",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15263,
+                    40.34083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "DE GIORGI",
+                "LUOGO": "VIA DE PIETRO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "12_DEGIORGI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17168,
+                    40.35949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "DE GIORGI",
+                "LUOGO": "VIA POZZUOLO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "13_DEGIORGI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16071,
+                    40.35729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "DE PACE",
+                "LUOGO": "V.LE MARCHE",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "14_DEPACE",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17282,
+                    40.34466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "DE PACE",
+                "LUOGO": "VIA MIGLIETTA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "15_DEPACE",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17832,
+                    40.34707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "DELEDDA",
+                "LUOGO": "P.ZZA PALIO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "16_DELEDDA",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19415,
+                    40.36126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "E. DE AMICIS",
+                "LUOGO": "P.TTA CONTE ACCARDO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "18_DEAMICIS",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17144,
+                    40.35808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "E. DE AMICIS",
+                "LUOGO": "VIA PALUMBO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "19_DEAMICIS",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18593,
+                    40.36318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "E. FERMI",
+                "LUOGO": "VIA MERINE",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "20_FERMI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18558,
+                    40.34663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "G. PELLEGRINO CIARDO",
+                "LUOGO": "VIA VECCHIA COPERTINO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "21_PELLEGRINOCIARDO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15368,
+                    40.34144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "G. PELLEGRINO CIARDO",
+                "LUOGO": "VIALE DE PIETRO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "22_PELLEGRINOCIARDO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17282,
+                    40.35882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "GALATEO-FRIGOLE",
+                "LUOGO": "VIA D. FONTANA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "24_GALATEOFRIGOLE",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1701,
+                    40.36376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "GALILEI COSTA",
+                "LUOGO": "P.ZZA PALIO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "25_GALILEICOSTA",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19457,
+                    40.36055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "GALILEI COSTA",
+                "LUOGO": "P.TTA DE SANCTIS",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "26_GALILEICOSTA",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17496,
+                    40.35391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "L. TEMPESTA",
+                "LUOGO": "VIA A. DA TARANTO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "27_TEMPESTA",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17488,
+                    40.36769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "L. TEMPESTA",
+                "LUOGO": "VIA OFANTO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "28_TEMPESTA",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17448,
+                    40.36349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "MARCELLINE",
+                "LUOGO": "V.LE OTRANTO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "29_MARCELLINE",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17512,
+                    40.34782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "OLIVETTI",
+                "LUOGO": "VIA MARUGI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "30_OLIVETTI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18541,
+                    40.34472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "OXFORD",
+                "LUOGO": "VIA ADRIATICA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "31_OXFORD",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17015,
+                    40.36325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "P. SICILIANI",
+                "LUOGO": "VIA LEUCA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "32_SICILIANI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17383,
+                    40.34737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "P. SICILIANI",
+                "LUOGO": "VIA DON BOSCO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "33_SICILIANI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16461,
+                    40.34748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "PALMIERI",
+                "LUOGO": "V.LE DELL'UNIVERSITA'",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "35_PALMIERI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16624,
+                    40.35456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "QUINTO ENNIO",
+                "LUOGO": "VIA IMBRIANI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "36_QUINTOENNIO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18252,
+                    40.35543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "S. CASTROMEDIANO",
+                "LUOGO": "VIA CANTOBELLI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "37_CASTROMEDIANO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18085,
+                    40.33871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "S. CASTROMEDIANO",
+                "LUOGO": "VIA VALZANI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "38_CASTROMEDIANO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15265,
+                    40.33108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "SCARAMBONE MARCONI",
+                "LUOGO": "VIA D. BIRAGO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "42_SCARAMBONEMARCONI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15406,
+                    40.35375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "SEMINARIO ARCIVESCOVILE",
+                "LUOGO": "VIA UMBRIA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "43_SEMINARIO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18451,
+                    40.33676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "STOMEO -ZIMBALO",
+                "LUOGO": "VIA CARRARA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "44_STOMEOZIMBALO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2008,
+                    40.36489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "STOMEO -ZIMBALO",
+                "LUOGO": "VIA SIRACUSA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "45_STOMEOZIMBALO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19903,
+                    40.36327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "STOMEO -ZIMBALO",
+                "LUOGO": "VIALE ROMA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "46_STOMEOZIMBALO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20006,
+                    40.35882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "VIRGILIO",
+                "LUOGO": "VIA GALILEI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "48_VIRGILIO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.15059,
+                    40.34691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "VIRGILIO",
+                "LUOGO": "VIA DEI SALESIANI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "49_VIRGILIO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18185,
+                    40.36374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "BANCA DEL LIBRO",
+                "LUOGO": "VIA U. FOSCOLO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "50_BANCALIBRO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17458,
+                    40.36336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "BIBLIOTECA CARACCIOLO (Monaci)",
+                "LUOGO": "VIA I. ADRIANO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "51_CARACCIOLO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.18083,
+                    40.35542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "MUSEO CARTAPESTA (Carlo V)",
+                "LUOGO": "VIA XXV LUGLIO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "52_CARTAPESTA",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17471,
+                    40.35238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "BIBLIOTECA BERNARDINI",
+                "LUOGO": "VIA CAIROLI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "53_BERNARDINI",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16873,
+                    40.34949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "MUSEO FAGGIANO",
+                "LUOGO": "VIA A. GRANDI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "54_FAGGIANO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17245,
+                    40.3501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "MUSEO S. CASTROMEDIANO",
+                "LUOGO": "VIALE GALLIPOLI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "57_CASTROMEDIANO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17034,
+                    40.34703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "MUSEO FERROVIARIO",
+                "LUOGO": "VIA CODACCI PISANELLI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "58_FERROVIARIO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.16666,
+                    40.34438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "CENTRO VOLARE ALTO",
+                "LUOGO": "VIA SIRACUSA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "59_VOLAREALTO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.20131,
+                    40.36349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "BIBLIOTECA PELLUCISAPE",
+                "LUOGO": "VIA PISTOIA",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "60_PELLUCISAPE",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19987,
+                    40.36616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "MUSEO EGIZIO",
+                "LUOGO": "V.LE A. MORO",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "61_EGIZIO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.19281,
+                    40.35533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "SEDE": "BIBLIOTECA BERNARDINI C/O MUSEO",
+                "LUOGO": "VIALE GALLIPOLI",
+                "NUM_HOTSPOT": "1",
+                "COD_IMPIANTO": "62_BERNARDINIMUSEO",
+                "COLLAUDATO": "NO"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.17034,
+                    40.34703
+                ]
+            }
+        }
+    ]
+}
+

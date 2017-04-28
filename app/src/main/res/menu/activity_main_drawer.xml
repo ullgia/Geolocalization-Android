@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="">
+        <menu >
+            <group android:checkableBehavior="single"
+                android:id="@+id/City"
+                android:visible="true">
+                <item android:id="@+id/another_city"
+                    android:title="Display Another City" />
+                <item android:id="@+id/def_city"
+                    android:title="Choose Default City" />
+                <item android:title="Select Default Language"
+                    android:id="@+id/language" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Info" >
+        <menu >
+            <group android:id="@+id/Credits"
+                android:visible="true">
+                <item android:title="Open Tutorials"
+                    android:id="@+id/tutorials" />
+                <item android:id="@+id/credits"
+                    android:title="Credits" />
+            </group>
+        </menu>
+    </item>
+
+
+</menu>

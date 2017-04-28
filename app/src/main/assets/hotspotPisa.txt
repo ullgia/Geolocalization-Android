@@ -1,0 +1,115 @@
+{
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 0, "Cgid_102338" : "0", "Ccnumero_hotspot_1268684593" : "I", "Ccdescrizione_1821345524" : "Logge di Banchi", "Cclatiitudine_1553977735" : "43.715373701165", "Cclongitudine_1241027993" : "10.4014182888297", "Cthe_geom_1096086090" : "0101000020E61000006614ADB286CD244009768D5D91DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 1, "Cgid_102338" : "1", "Ccnumero_hotspot_1268684593" : "II", "Ccdescrizione_1821345524" : "Viale Piagge - zona Comando VVF", "Cclatiitudine_1553977735" : "43.7091235045727", "Cclongitudine_1241027993" : "10.4099906288413", "Cthe_geom_1096086090" : "0101000020E61000006814AD4AEAD124407A7B1A8FC4DA4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 2, "Cgid_102338" : "2", "Ccnumero_hotspot_1268684593" : "III", "Ccdescrizione_1821345524" : "Sede Comune di Pisa", "Cclatiitudine_1553977735" : "43.7156002849199", "Cclongitudine_1241027993" : "10.4016275011329", "Cthe_geom_1096086090" : "0101000020E61000007C14AD1EA2CD2440A05E46CA98DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 3, "Cgid_102338" : "3", "Ccnumero_hotspot_1268684593" : "IV", "Ccdescrizione_1821345524" : "Largo Ciro Menotti", "Cclatiitudine_1553977735" : "43.7177970238594", "Cclongitudine_1241027993" : "10.4023852251796", "Cthe_geom_1096086090" : "0101000020E61000007814AD6F05CE24403552DBC5E0DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 4, "Cgid_102338" : "4", "Ccnumero_hotspot_1268684593" : "IX", "Ccdescrizione_1821345524" : "Piazza Belvedere - Tirrenia", "Cclatiitudine_1553977735" : "43.6274050029561", "Cclongitudine_1241027993" : "10.2916596137313", "Cthe_geom_1096086090" : "0101000020E61000007114AD68549524408985A0CE4ED04540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 5, "Cgid_102338" : "5", "Ccnumero_hotspot_1268684593" : "V", "Ccdescrizione_1821345524" : "Giudice di Pace e Teatro Verdi", "Cclatiitudine_1553977735" : "43.7163488921042", "Cclongitudine_1241027993" : "10.4042238794593", "Cthe_geom_1096086090" : "0101000020E61000007314AD6EF6CE2440830E0C52B1DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 6, "Cgid_102338" : "6", "Ccnumero_hotspot_1268684593" : "VI", "Ccdescrizione_1821345524" : "Lungarni - zona centrale", "Cclatiitudine_1553977735" : "43.7155230342283", "Cclongitudine_1241027993" : "10.4015953146247", "Cthe_geom_1096086090" : "0101000020E61000007014ADE69DCD2440CAC53F4296DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 7, "Cgid_102338" : "7", "Ccnumero_hotspot_1268684593" : "VII", "Ccdescrizione_1821345524" : "Casa della Citta'  Leopolda", "Cclatiitudine_1553977735" : "43.7093733308314", "Cclongitudine_1241027993" : "10.4058895312575", "Cthe_geom_1096086090" : "0101000020E61000005814ADC0D0CF2440A849CCBECCDA4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 8, "Cgid_102338" : "8", "Ccnumero_hotspot_1268684593" : "VIII", "Ccdescrizione_1821345524" : "Piazza Baleari - Marina di Pisa", "Cclatiitudine_1553977735" : "43.6724191779069", "Cclongitudine_1241027993" : "10.2723933063773", "Cthe_geom_1096086090" : "0101000020E61000006214AD22778B24401C28E5D411D64540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 9, "Cgid_102338" : "9", "Ccnumero_hotspot_1268684593" : "X", "Ccdescrizione_1821345524" : "Piazza Vittorio Emanuele", "Cclatiitudine_1553977735" : "43.710808059558", "Cclongitudine_1241027993" : "10.3993503056792", "Cthe_geom_1096086090" : "0101000020E61000005C14ADA477CC244075C42CC2FBDA4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 10, "Cgid_102338" : "10", "Ccnumero_hotspot_1268684593" : "XI", "Ccdescrizione_1821345524" : "Piazza Dante", "Cclatiitudine_1553977735" : "43.7176807093483", "Cclongitudine_1241027993" : "10.3982505999831", "Cthe_geom_1096086090" : "0101000020E61000006014AD80E7CB24407ECF23F6DCDB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 11, "Cgid_102338" : "11", "Ccnumero_hotspot_1268684593" : "XII", "Ccdescrizione_1821345524" : "Tribunale Pisa", "Cclatiitudine_1553977735" : "43.7161821705393", "Cclongitudine_1241027993" : "10.406329413536", "Cthe_geom_1096086090" : "0101000020E61000007814AD680AD02440E8387CDBABDB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 12, "Cgid_102338" : "12", "Ccnumero_hotspot_1268684593" : "XIII", "Ccdescrizione_1821345524" : "Corso Italia", "Cclatiitudine_1553977735" : "43.7133517103933", "Cclongitudine_1241027993" : "10.4002729855803", "Cthe_geom_1096086090" : "0101000020E61000004F14AD94F0CC2440AA57DD1B4FDB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 13, "Cgid_102338" : "13", "Ccnumero_hotspot_1268684593" : "XIV", "Ccdescrizione_1821345524" : "Piazza Chiara Gambacorti", "Cclatiitudine_1553977735" : "43.7141349469895", "Cclongitudine_1241027993" : "10.4012707673339", "Cthe_geom_1096086090" : "0101000020E61000007114AD5C73CD2440142021C668DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 14, "Cgid_102338" : "14", "Ccnumero_hotspot_1268684593" : "XIX", "Ccdescrizione_1821345524" : "Biblioteca Comunale", "Cclatiitudine_1553977735" : "43.7059453534115", "Cclongitudine_1241027993" : "10.4184959136275", "Cthe_geom_1096086090" : "0101000020E61000005B14AD1845D6244031D5D66A5CDA4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 15, "Cgid_102338" : "15", "Ccnumero_hotspot_1268684593" : "XV", "Ccdescrizione_1821345524" : "CTP 3 (Putignano) e scuola media Gamerra", "Cclatiitudine_1553977735" : "43.694376421601", "Cclongitudine_1241027993" : "10.4293239914206", "Cthe_geom_1096086090" : "0101000020E61000004F14AD5AD0DB2440E5F19A53E1D84540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 16, "Cgid_102338" : "16", "Ccnumero_hotspot_1268684593" : "XVI", "Ccdescrizione_1821345524" : "CTP 6 e Largo Cocco Griffi", "Cclatiitudine_1553977735" : "43.725021650955", "Cclongitudine_1241027993" : "10.3928083978919", "Cthe_geom_1096086090" : "0101000020E61000006914AD2E1EC9244030DF6B82CDDC4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 17, "Cgid_102338" : "17", "Ccnumero_hotspot_1268684593" : "XVII", "Ccdescrizione_1821345524" : "CTP 2 (CEP) e scuola d'infanzia Montessori", "Cclatiitudine_1553977735" : "43.7113625536252", "Cclongitudine_1241027993" : "10.3737110697059", "Cthe_geom_1096086090" : "0101000020E61000007D14AD0E57BF2440ABB59BED0DDB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 18, "Cgid_102338" : "18", "Ccnumero_hotspot_1268684593" : "XVIII", "Ccdescrizione_1821345524" : "CTP 4 (zona aeroporto) e scuola Media Fucini", "Cclatiitudine_1553977735" : "43.7021099743731", "Cclongitudine_1241027993" : "10.4010749660758", "Cthe_geom_1096086090" : "0101000020E61000006A14ADB259CD24405E1059BDDED94540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 19, "Cgid_102338" : "19", "Ccnumero_hotspot_1268684593" : "XX", "Ccdescrizione_1821345524" : "Questura di Pisa", "Cclatiitudine_1553977735" : "43.7174694040774", "Cclongitudine_1241027993" : "10.4075632296828", "Cthe_geom_1096086090" : "0101000020E61000005C14AD20ACD024404F329509D6DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 20, "Cgid_102338" : "20", "Ccnumero_hotspot_1268684593" : "XXI", "Ccdescrizione_1821345524" : "Piazza Martiri della Liberta'", "Cclatiitudine_1553977735" : "43.7204233703479", "Cclongitudine_1241027993" : "10.4036022927505", "Cthe_geom_1096086090" : "0101000020E610000075E8AFF5A4CE24408C753FD536DC4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 21, "Cgid_102338" : "21", "Ccnumero_hotspot_1268684593" : "XXII", "Ccdescrizione_1821345524" : "Centro Espositivo SMS", "Cclatiitudine_1553977735" : "43.7059143300965", "Cclongitudine_1241027993" : "10.4194507800368", "Cthe_geom_1096086090" : "0101000020E61000005A14AD40C2D6244067C598665BDA4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 22, "Cgid_102338" : "22", "Ccnumero_hotspot_1268684593" : "XXIII", "Ccdescrizione_1821345524" : "Giardino Scotto", "Cclatiitudine_1553977735" : "43.7115525539069", "Cclongitudine_1241027993" : "10.4071501694945", "Cthe_geom_1096086090" : "0101000020E61000005814ADFC75D024402C35722714DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 23, "Cgid_102338" : "23", "Ccnumero_hotspot_1268684593" : "XXIV", "Ccdescrizione_1821345524" : "Piazza Stazione FS", "Cclatiitudine_1553977735" : "43.7088654111792", "Cclongitudine_1241027993" : "10.3986607791739", "Cthe_geom_1096086090" : "0101000020E6100000E37F01441DCC2440DF230F1ABCDA4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 24, "Cgid_102338" : "24", "Ccnumero_hotspot_1268684593" : "XXV", "Ccdescrizione_1821345524" : "Piazza Cavalieri/Via Dini", "Cclatiitudine_1553977735" : "43.7192723200741", "Cclongitudine_1241027993" : "10.4004203082877", "Cthe_geom_1096086090" : "0101000020E6100000F47F01E403CD244072D1891D11DC4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 25, "Cgid_102338" : "25", "Ccnumero_hotspot_1268684593" : "XXVI", "Ccdescrizione_1821345524" : "Piazza Garibaldi/Borgo Stretto", "Cclatiitudine_1553977735" : "43.7165660772636", "Cclongitudine_1241027993" : "10.4023193121065", "Cthe_geom_1096086090" : "0101000020E6100000E01700CCFCCD244095A2ED6FB8DB4540"
+}, {
+"__metadata" : {
+"uri" : "http://www.datiopen.it/Proxy.svc/2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'('row_id')", "type" : "http://odata.statportal.it.2-'c1e85457-76cc-41cf-960d-5f0f7395786f@datiopen'"
+}, "row_id" : 26, "Cgid_102338" : "26", "Ccnumero_hotspot_1268684593" : "XXVII", "Ccdescrizione_1821345524" : "Piazza Cavallotti/via dei mille", "Cclatiitudine_1553977735" : "43.7199779392269", "Cclongitudine_1241027993" : "10.3978024722891", "Cthe_geom_1096086090" : "0101000020E6100000D07F01C4ACCB24401769B33C28DC4540"
+}
+], "__count" : "0"
+}
+}
